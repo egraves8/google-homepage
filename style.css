@@ -4,7 +4,37 @@
 #navbar p {
     font-size: 14px;
     font-family: arial, sans-serif;
+}
+#about-page {
+    padding-left: 18px;
     padding-right: 20px;
+}
+#right-side {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+#gmail {
+    font-size: 13px !important;
+    padding-right: 15px;
+}
+#google-images {
+    font-size: 13px !important;
+    padding-right: 30px;
+}
+#app-suite {
+    margin-top: 13px;
+    margin-right: 23px;
+}
+#sign-in-button {
+    background-color: rgb(0, 102, 255);
+    border: none;
+    color: white;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    margin-top: 5px;
+    height: 35px;
+    width: 94px;
 }
 a :link {
     color: black;
